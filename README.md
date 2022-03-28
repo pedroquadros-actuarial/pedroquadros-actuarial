@@ -27,4 +27,10 @@ Here are some ideas to get you started:
 Essa é a conta do Pedro Bianchini de Quadros da empresa Actuarial
 <br>
 Conta oficial: https://github.com/pedrobiqua
-
+<br>
+<br>
+<div>
+  <a href="https://github.com/pedroquadros-actuarial">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroquadros-actuarial&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroquadros-actuarial&layout=compact&langs_count=7&theme=algolia"/>
+</div>
